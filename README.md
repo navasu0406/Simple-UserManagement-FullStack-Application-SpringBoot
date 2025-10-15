@@ -1,9 +1,10 @@
 # 🧑‍💼 Simple User Management Full Stack Application
 📸 Screenshots
-<img width="669" height="338" alt="Screenshot 2025-10-16 021040" src="https://github.com/user-attachments/assets/e6722155-6a05-4e45-99d0-6bbedce510c6" />
-<img width="676" height="440" alt="Screenshot 2025-10-16 021031" src="https://github.com/user-attachments/assets/72f2ce1e-30e0-48bd-939f-d6963b79f90e" />
-<img width="1919" height="725" alt="Screenshot 2025-10-16 021020" src="https://github.com/user-attachments/assets/43a5a42a-edb5-4b14-979c-b2564695dfad" />
-<img width="1919" height="370" alt="Screenshot 2025-10-16 021007" src="https://github.com/user-attachments/assets/af2bc8fc-b18a-4020-9fe2-1533c822549c" />
+<img width="1304" height="216" alt="Screenshot 2025-10-16 021517" src="https://github.com/user-attachments/assets/a19ad97f-320f-4c61-a3c2-6b4a6b4b9b39" />
+<img width="667" height="440" alt="Screenshot 2025-10-16 021509" src="https://github.com/user-attachments/assets/ef9c2743-1d10-490e-90fd-9dc15b9f8e65" />
+<img width="669" height="338" alt="Screenshot 2025-10-16 021040" src="https://github.com/user-attachments/assets/7cc4e07c-74ba-4601-8649-f77eceade035" />
+<img width="676" height="440" alt="Screenshot 2025-10-16 021031" src="https://github.com/user-attachments/assets/b263e1b3-61c9-40ed-a81a-575f3b2c70ea" />
+
 A **full-stack web application** built using **React**, **Spring Boot**, and **MySQL** for managing users.  
 
 This app allows you to **add, view, edit, and delete users** with a clean UI and a robust backend API.
